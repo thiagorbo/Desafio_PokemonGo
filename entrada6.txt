@@ -1,0 +1,4 @@
+12 15
+Nidoran 1 4 9
+Quilava 2 3 4
+Rayquaza 3 10 5

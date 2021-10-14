@@ -1,0 +1,5 @@
+25 60
+Nidoran 1 14 23
+Pidgey 0 55 14
+Quilava 2 9 22
+Rayquaza 4 30 8

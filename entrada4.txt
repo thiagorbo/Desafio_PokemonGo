@@ -1,0 +1,4 @@
+15 32
+Nidoran 1 14 13
+Pidgey 0 25 10
+Quilava 2 9 12
